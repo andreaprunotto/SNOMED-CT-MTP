@@ -14,7 +14,7 @@ Supplementary Material of MIE conference paper "Automatic Generation of German T
 
 ![Supp. Fig. 3](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/PCA_overall.png)
 
-**Supp. Fig 4.** Distribution of unique TCs obtained from each TP. The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (left-most plot), the higher the number of the related distinct TCs (right-most plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN.
+**Supp. Fig 4.** Distribution of unique TCs obtained from each TP. The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (left-most plot), the higher the number of the related distinct TCs (right-most plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN. As expected, the highest number of unique candidates is found throughout STs, whereas all the TCs obtained by DT are usually found by means of some other TP (a similar outcome is observed for those TPs involving Danish or English as support language). An exception is represented by TPs involving Systran, which provide the highest number of unique candidates. 
 
 ![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/1_cand.png)
 
