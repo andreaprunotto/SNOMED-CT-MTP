@@ -9,7 +9,7 @@ Supplementary Material of MIE conference paper *Automatic Generation of German T
 
 ![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/schemes_of_translations_methods.png)
 
-**Consensus matrix of direct translations obtained with different MT tools.** The matrix is defined by assigning TPs on row and columns, and then placing the number of TCs found in common among any TPs couple in the cells. Barplots on top and left represent the average consensus of one TP with all the others.
+**Consensus matrix of direct translations obtained with different MT tools.** The matrix is defined by assigning TPs on rows and columns, and then placing the number of TCs found in common among any TPs couple in the cells. Barplots on top and left represent the average consensus of one TP with all the others.
 
 ![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/Heatmap_engines-sources.png)
 
@@ -22,11 +22,11 @@ Supplementary Material of MIE conference paper *Automatic Generation of German T
 
 ![Supp. Fig. 3](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/PCA_overall.png)
 
-**Distribution of unique TCs obtained from each TP.** The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (left-most plot), the higher the number of the related distinct TCs (right-most plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN. As expected, the highest number of unique candidates is found throughout STs, whereas all the TCs obtained by DT are usually found by means of some other TP (a similar outcome is observed for those TPs involving Danish or English as support language). An exception is represented by TPs involving Systran, which provide the highest number of unique candidates. 
+**Distribution of unique TCs obtained from each TP.** The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (leftmost plot), the higher the number of the related distinct TCs (rightmost plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN. As expected, the highest number of unique candidates is found throughout STs, whereas all the TCs obtained by DT are usually found by means of some other TP (a similar outcome is observed for those TPs involving Danish or English as support language). An exception is represented by TPs involving Systran, which provide the highest number of unique candidates. 
 
 ![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/1_cand.png)
 
-**Distribution of TCs multiplicity.** The heatmap displays the number of FSNs whose *n*-th candidate (*n* in rows) has a multiplicity *m* (columns). For instance, the topleft cell of the heatmap assesses that there are 221 FSNs whose first candidate (column 1 from left) has a multiplicity of 6 (first row from top).
+**Distribution of TPs multiplicity.** The heatmap displays the number of FSNs whose *n*-th candidate (*n* in rows) has a multiplicity *m* (columns), i.e. it is found throughout *m* TPs. For instance, the top left cell of the heatmap assesses that there are 221 FSNs whose first candidate (column 1 from left) has a multiplicity of 6 (first row from top). However, this is clearly an exception, since the majority of the first candidates (i.e. of the cells of the first column) have a multiplicity which ranges from 20 to 30 TPs (these are actually the cells of the first columns with highest number of FSNs). The heatmap proves that the *statistical* confidence (at least for the first 3 candidates) is quite robust. As mentioned in the paper, this does not necessarily reflect in a good translation, but it represents a solid starting point for evaluating (in a fully automatized way) a plethora of candidates to be submitted to human inspection.
 
 ![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/multiplicity.png)
 
