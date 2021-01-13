@@ -7,8 +7,7 @@ Supp. Fig 1. Consensus matrix of direct translations obtained with different MT 
 
 Supp. Fig 2. Full consensus matrix, same structure as above, but using all 12 support languages and 91 TPs. 
 
-![Supp. Fig. 2](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.supplementary.1.pdf)
-
+![Supp. Fig. 2](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.png)
 
 
 ![Supp. Fig. 3](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/PCA_overall.png)
