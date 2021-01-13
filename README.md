@@ -7,7 +7,7 @@ Supplementary Material of MIE conference paper "Automatic Generation of German T
 
 **Schematic illustration of various MT strategies.** White labels=source languages, yellow=target; cylinders=MT tools. **A** Classical MT approach. **B** Multiple engines approach. **C** Multiple Translation Path (MTP) approach.
 
-![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/Heatmap_engines-sources.png)
+![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/schemes_of_translations_methods.png)
 
 **Supp. Fig 1.** Consensus matrix of direct translations obtained with different MT tools (TPs on row and columns, number of common TCs in cells). The heatmap illustrates the number of FSNs direct translations that are found by any of two given TPs. Barplots on top and left represent the average concordance of one TP with all the others.
 
