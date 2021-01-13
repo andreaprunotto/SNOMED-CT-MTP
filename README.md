@@ -26,3 +26,7 @@ Supplementary Material of MIE conference paper *Automatic Generation of German T
 
 ![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/1_cand.png)
 
+**Distribution of TCs multiplicity.** The heatmap displays the number of FSNs with a given number of distinct TCs (rows), each of them reaching a given multiplicity (columns) . 
+
+![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/multiplicity.png)
+
