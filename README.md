@@ -7,7 +7,7 @@ Click on the links to visualize the Figures.
 
 Consensus matrix of direct translations obtained with different MT tools (TPs on row and columns, number of common TCs in cells). The heatmap illustrates the number of FSNs direct translations that are found by any of two given TPs. Barplots on top and left represent the average concordance of one TP with all the others.
 
-![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.supplementary.1.pdf)
+![Supp. Fig. 2](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.supplementary.1.pdf)
 
 Consensus matrix using all the 91 TPs. 
 
