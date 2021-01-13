@@ -1,4 +1,4 @@
-# SNOMED-CT Multiple Translation Path approach
+# SNOMED-CT Multiple-Translation-Path approach
 Supplementary Material of MIE conference paper "Automatic Generation of German Translation Candidates for SNOMED CT Textual Descriptions" (A. Prunotto, S. Schulz, and M. Boeker, IMBI Freiburg)
 
 Click on the links to visualize the Figures.
