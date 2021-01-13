@@ -1,15 +1,15 @@
 # SNOMED-CT Multiple-Translation-Path approach
 Supplementary Material of MIE conference paper "Automatic Generation of German Translation Candidates for SNOMED CT Textual Descriptions" (A. Prunotto, S. Schulz, and M. Boeker, IMBI Freiburg)
 
-Click on the links to visualize the Figures.
+Supp. Fig 1. Consensus matrix of direct translations obtained with different MT tools (TPs on row and columns, number of common TCs in cells). The heatmap illustrates the number of FSNs direct translations that are found by any of two given TPs. Barplots on top and left represent the average concordance of one TP with all the others.
 
-![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/Heatmap_engines-sources.pdf)
+![Supp. Fig. 1](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/Heatmap_engines-sources.png)
 
-Consensus matrix of direct translations obtained with different MT tools (TPs on row and columns, number of common TCs in cells). The heatmap illustrates the number of FSNs direct translations that are found by any of two given TPs. Barplots on top and left represent the average concordance of one TP with all the others.
+Supp. Fig 2. Full consensus matrix, same structure as above, but using all 12 support languages and 91 TPs. 
 
 ![Supp. Fig. 2](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.supplementary.1.pdf)
 
-Full consensus matrix, i.e. using all the 91 TPs. 
+
 
 ![Supp. Fig. 3](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/PCA_overall.png)
 
