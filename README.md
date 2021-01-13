@@ -10,10 +10,11 @@ Supp. Fig 2. Full consensus matrix, same structure as above, but using all 12 su
 ![Supp. Fig. 2](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/heatmap_overall_StarterSet.png)
 
 
+Supp. Fig 3. PCA of the full consensus matrix. Data is related to TCs of the SNOMED Starter Set, obtained by a MTP approach. The ellipses represent the areas that contain 95% of the TPs related to that engine. The higher concordance between Google and Deepl is confirmed by the intersection among Google (green) and Deepl (red) ellipses. The substantial separation of Systran individuals (blue) is an indication of a high amount of peculiar TCs found only by this engine.
+
 ![Supp. Fig. 3](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/PCA_overall.png)
 
-PCA of the full consensus matrix. Data is related to TCs of the SNOMED Starter Set, obtained by a MTP approach. The ellipses represent the areas that contain 95% of the TPs related to that engine. The higher concordance between Google and Deepl is confirmed by the intersection among Google (green) and Deepl (red) ellipses. The substantial separation of Systran individuals (blue) is an indication of a high amount of peculiar TCs found only by this engine.
+Supp. Fig 4. Distribution of unique TCs obtained from each TP. The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (left-most plot), the higher the number of the related distinct TCs (right-most plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN.
 
 ![Supp. Fig. 4](https://github.com/andreaprunotto/SNOMED-CT-MTP/blob/main/1_cand.png)
 
-Distribution of unique TCs obtained from each TP. The three central heatmaps show in colour those concepts (rows) which are translated in a unique way by means of a TP (columns). Notably, the higher the number words in a FSN (left-most plot), the higher the number of the related distinct TCs (right-most plot). In average, the MTP approach leads to an average of 20-30 distinct TCs for each FSN.
