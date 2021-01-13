@@ -2,7 +2,7 @@
 
 
 
-Supplementary Material of MIE conference paper "Automatic Generation of German Translation Candidates for SNOMED CT Textual Descriptions" (A. Prunotto, S. Schulz, and M. Boeker, IMBI Freiburg)
+Supplementary Material of MIE conference paper *Automatic Generation of German Translation Candidates for SNOMED CT Textual Descriptions*, A. Prunotto, S. Schulz, and M. Boeker, IMBI Freiburg.
 
 
 **Schematic illustration of various MT strategies.** White labels=source languages, yellow=target; cylinders=MT tools. **A** Classical MT approach. **B** Multiple engines approach. **C** Multiple Translation Path (MTP) approach.
